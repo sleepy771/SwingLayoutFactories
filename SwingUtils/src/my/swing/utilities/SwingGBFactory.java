@@ -10,7 +10,7 @@ import java.util.Map;
 
 import javax.swing.JComponent;
 
-//TODO make Class that there can be freeli added components
+//TODO make Class that there can be freely added components
 /**
  * Class which handle GridBagConstaints object, in order to simplifying and shortening code for creating and setting panel layout.
  * Simple showcase:
